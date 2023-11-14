@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.28",
+        "dompdf/dompdf": "^2.0"
+    },
+     "config": {
+        "platform": {
+            "php": "7.4.1"
+        }
+    }
+}
